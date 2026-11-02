@@ -1,0 +1,24 @@
+================================================================================
+IPL CRICKET NEWS ARTICLE: ORIGINAL VS CHATGPT SUMMARY
+================================================================================
+
+--- [ORIGINAL ARTICLE: 3 PARAGRAPHS] ---
+
+Paragraph 1:
+The 2024 Indian Premier League (IPL) season witnessed an unprecedented explosion of aggressive batting, shattering historical records and transforming twenty-over cricket dynamics. Teams routinely crossed the 250-run threshold, propelled by the introduction of the 'Impact Player' rule and an ultra-fearless approach adopted by top-order batsmen during the powerplay overs. Sunrisers Hyderabad led this offensive revolution by setting the highest-ever team total in IPL history with 287 runs against Royal Challengers Bengaluru, leaving bowlers scrambling for defensive variations on high-scoring pitches across India.
+
+Paragraph 2:
+Despite the batting fireworks throughout the league phase, Kolkata Knight Riders (KKR) demonstrated that bowling depth and tactical discipline remain the ultimate championship currency. Under the mentorship of Gautam Gambhir and captaincy of Shreyas Iyer, KKR executed a balanced masterclass throughout the tournament. Their formidable bowling attack—spearheaded by Mitchell Starc's lethal opening spells in knockout games alongside the enigmatic spin duo of Sunil Narine and Varun Chakaravarthy—consistently suffocated opposition batting lineups in critical situations.
+
+Paragraph 3:
+The grand finale in Chennai culminated in a commanding display as KKR dismantled Sunrisers Hyderabad in a remarkably one-sided encounter to lift their third IPL trophy. KKR's bowlers bowled out the tournament's most aggressive batting unit for a meager 113 runs, the lowest score ever recorded in an IPL final. In response, KKR chased down the target in just 10.3 overs with eight wickets in hand, cementing a season defined by record-breaking strokeplay yet rightfully won by bowling ruthlessness and tactical dominance.
+
+--------------------------------------------------------------------------------
+--- [CHATGPT PROMPT USED] ---
+"Summarize the following 3-paragraph news article about IPL 2024 cricket into a single concise, coherent, and informative paragraph highlighting the main events and outcome."
+
+--------------------------------------------------------------------------------
+--- [CHATGPT SUMMARY: SINGLE SHORT PARAGRAPH] ---
+The 2024 Indian Premier League season was defined by historic batting onslaughts and record totals fueled by the Impact Player rule, yet championship glory ultimately belonged to bowling masterclass as Kolkata Knight Riders (KKR) claimed their third title. While teams like Sunrisers Hyderabad shattered scoring benchmarks throughout the tournament, KKR's disciplined bowling attack—anchored by Mitchell Starc, Sunil Narine, and Varun Chakaravarthy—dominated the decisive stages, culminating in a ruthless final where they skittled Hyderabad for an all-time final low of 113 and raced to victory in just 10.3 overs.
+================================================================================
+
